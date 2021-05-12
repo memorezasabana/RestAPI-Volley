@@ -57,7 +57,6 @@ StringRequest
 			}
 		});
 requestQueue.add(stringRequest);
-</pre>
 ```
 - JSONArray Request
 ```java
